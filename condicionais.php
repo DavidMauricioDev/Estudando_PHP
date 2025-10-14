@@ -23,7 +23,7 @@
     
        $valor_frete = 50;
        $recebeu_desconto_frete = true;
-        //If/else encadeado
+       //If/else encadeado
        if($usuario_possui_cartao_loja == true && $valor_compra >= 400){
           $valor_frete = 0;
           $recebeu_desconto_frete = true;
