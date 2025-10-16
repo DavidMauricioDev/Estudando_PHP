@@ -11,6 +11,6 @@ Este repositório contém:
 - Estrutura de pastas organizada por tema (Ex: variáveis, funções, orientação a objetos, exercios etc.)
 - Exemplos comentados de código PHP
 - Projetos simples para consolidar o aprendizado
-- Documentação auxiliar e notas pessoais de estudo
+
 
 
