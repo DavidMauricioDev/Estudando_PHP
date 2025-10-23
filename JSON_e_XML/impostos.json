@@ -1,0 +1,12 @@
+
+
+
+{
+    "empresa": "Supermercado São João",
+    "CNPJ":"12.345.678/0001-90",
+    "impostos": {
+        "PIS": 250.45,
+        "COFINS": 1150.89,
+        "IRPJ": 2100.00
+    }
+}

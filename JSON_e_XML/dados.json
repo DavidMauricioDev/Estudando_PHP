@@ -1,0 +1,23 @@
+{"clientes":
+[
+    {
+        "id": "1",
+        "nome":"Marcos",
+        "email": "marcos@marcolin.com.br"
+     },
+
+     {
+        "id": "2",
+        "nome":"Vitor",
+        "email": "vitor@jose.com.br"
+     },
+
+     {
+        "id": "3",
+        "nome":"David",
+        "email": "david@mauricio.com.br"
+     }
+
+
+]
+}
